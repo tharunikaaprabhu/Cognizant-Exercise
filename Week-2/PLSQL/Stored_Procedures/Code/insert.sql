@@ -1,0 +1,15 @@
+
+INSERT INTO SavingsAccounts VALUES (101, 1, 5000);
+INSERT INTO SavingsAccounts VALUES (102, 2, 7500);
+INSERT INTO SavingsAccounts VALUES (103, 3, 10000);
+INSERT INTO SavingsAccounts VALUES (104, 4, 2000);
+
+INSERT INTO Employees VALUES (1, 'Alice', 10, 40000);
+INSERT INTO Employees VALUES (2, 'Bob', 10, 42000);
+INSERT INTO Employees VALUES (3, 'Charlie', 20, 38000);
+INSERT INTO Employees VALUES (4, 'Diana', 20, 41000);
+
+INSERT INTO Accounts VALUES (201, 1, 10000);
+INSERT INTO Accounts VALUES (202, 2, 5000);  
+INSERT INTO Accounts VALUES (203, 3, 8000);
+INSERT INTO Accounts VALUES (204, 4, 3000);
